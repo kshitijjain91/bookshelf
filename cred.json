@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "book-shelf-app-155404",
+  "private_key_id": "ca2e3a3d13bfb6e2341cefc117b0a78eb5becbc8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDe/LF0SaXejNVj\n95mYR4xPc/S+dNqlXUBeK/pNUJSgT3nSwGWKJ4v950peRDxN+BDW1664CFuIxVy/\nnuxQSDwWDnTWTs2WQBBS2RwJyEKEIo/Vz/9fBL22HD6JMkpTEAyV/bV/St0tN8WS\naw45o6M/ZDJKfkcbgDEiCDNUeTRpXph0FK4/af+drE5vWuA1FYXMeTgdCJFjR0mk\n7ZRyWTs7rQ3AVpyZ9+Ahf4gh8hqUxMDDHVplwT8EpBMUDK0TQHjdAWqN8Sb0QLcj\nBLCgdLpA6NgQsbquB2bi+WjPkq5Qux3OT2q/m9LGgUNbsrWeZk8iX669V4bwbrQM\nj+Mqv9zjAgMBAAECggEASJPw4kuyXDx0nCQT7xeimJ3CVFdObzJp5/zibFXE+mTD\n3w/WPOBgVVT5xLLq+em6+WKcMLQvrtWmOYxtmDfarscnyjU9/yB876pQ0PJIjB9/\nt3UKxo+Re/u3cwpWXLDFl/BLKdJhKP2VJfIIYERdtx1SrSJq3I2d8FjA9Ea7A2w2\nHTAsI/iCNw8/SD6zIMa7n7G8asPt7XH7rCB6qxqxnIaR/3ov4uC3oVzOK97HfP7y\n5B4E+D/yBeZ91+UtIAkdXFkGMWB7HMEY9MOvP8FhmU0CrhXBaZbETEjh5jH1tz/H\nvLLnpdoHPZmlUV8XwN3N7gThCHmdgC03Sj4huDOGEQKBgQDzjvJz9Hq2d3Uxwn4o\nfR3fIArALqmS+/9aLRgsrq2jkKgO9sQk3GM1zFHwK4SYU9J3+yx+MooQ4rw5PLzM\ns7zqVuzOlAWdVj23WWlwNbqTfwrtzst0wsq8E+RIfWS48JlQYb2Xa1pERwAwt0ra\nY1jXReONk2Sbs5C6GqjS8kAcuQKBgQDqYLtWJWMGL+gjp3MmThTbgp1YIjZrx2aM\nos75nwzIUZh2CzqmV0Mldxm/wDfrK/+3EoGPFqEi8vZdFTDH40wkVKFm9i34kQko\nySF2TzyQvqSoM3f8sdtHJj7y2NwliMZH1OzjJlfLQM+J07jQ03ZsEOvAzRMw0ukx\nJT04oxqQewKBgQCsj64GK8Q5vV9iNvutciAU8x3K1gS9KB/eYy7KkaRiy93WZE3K\nE/+SoUW4lQyn5FOtQF9gtiwOFKbpIrhdjEcf/SBgqI1l0TF+0zGaF+cuE4fJv4d1\nHYIISUundHhFc+ocAnQScTQORgPDgEnfex35wAGeUDyq+EllIfhVJN/5uQKBgCEk\nKnlE8hqm3YllHSg2dEaR0pPqyo009fA++UtczR7qQse2UMXCoxECJVby5DVR1Gfb\nqwxDo+dgOavx2iL5pgOhH+2CM//o6kWlIyEqlSLWgkvycy39LEeERfRq67429+qi\nVhjMjC+Ga5JOqNyGekFPpzZtCSCnQigb3utKTPBPAoGBAMXzhoa8pWbPsHbOkPI+\nULq5vZao3XjGGzhVQsOsWxNx/DUN1VtP5A7HRgqSEDV8CXB3U8uuQF7gNFfeXNGs\nws1TyPGSEI0TGNl/5fnLe5/uk2xCzfgK1tr2p4R8C5NZm9UK+qJ7KtU6pcXWgIwP\n3F0JC4Os7SPnnpYPsbca4YIn\n-----END PRIVATE KEY-----\n",
+  "client_email": "book-shelf-service-account@book-shelf-app-155404.iam.gserviceaccount.com",
+  "client_id": "112896211981166638369",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/book-shelf-service-account%40book-shelf-app-155404.iam.gserviceaccount.com",
+  "GOOGLE_APPLICATION_CREDENTIALS": "/Users/kshitijjain/Documents/Learning_Flask/book_shelf/getting-started-python/2-structured-data/cred.json"
+}

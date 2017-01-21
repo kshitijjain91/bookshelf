@@ -5,4 +5,6 @@ bookshelf/__pycache__
 bookshelf/__pycache__/
 tox.ini
 venv3/
+cloud_sql_proxy
+cloud_sql_proxy/
 
